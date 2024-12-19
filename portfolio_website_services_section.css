@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.website_service_section_container {
+    background-color: #52606d;
+    background-size: cover;
+}
+
+.services_headline {
+    color: #cced00;
+    font-size: 23px;
+}
+
+.website_images {
+    height: 80px;
+    width: 90px;
+}
+
+.container_box {
+    /*  height: 100%; */
+    width: 100%;
+    margin: 15px;
+    margin-bottom: 5px;
+    background-color: #323f4b;
+    border-radius: 5px;
+
+}
+
+.whatido_headline {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.website_headline {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.website_para {
+    font-size: 24px;
+    color: #9aa5b1;
+}
